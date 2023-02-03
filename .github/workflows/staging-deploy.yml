@@ -1,6 +1,7 @@
 name: Staging Deployment
 
 # STEPS
+
 # Checkout Staging Branch of Website
 # Push to website-staging repository
 
